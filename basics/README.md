@@ -1,1 +1,1 @@
-Salam
+These are basics tasks
